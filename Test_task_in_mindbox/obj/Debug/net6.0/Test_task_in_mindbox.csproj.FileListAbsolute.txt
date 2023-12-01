@@ -1,0 +1,11 @@
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\bin\Debug\net6.0\Test_task_in_mindbox.deps.json
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\bin\Debug\net6.0\Test_task_in_mindbox.dll
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\bin\Debug\net6.0\Test_task_in_mindbox.pdb
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.AssemblyInfo.cs
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.dll
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\refint\Test_task_in_mindbox.dll
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\Test_task_in_mindbox.pdb
+C:\Users\misha\source\repos\MindBox\Test_task_mindbox\Test_task_in_mindbox\obj\Debug\net6.0\ref\Test_task_in_mindbox.dll

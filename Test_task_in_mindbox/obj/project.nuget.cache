@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHmYD7OIrgSGVnfB5m6z36iBfYXUWTo9byaGeQD5uT7M6S/9FFRF0EqTyIaFItTaJq+OhBs3B32XklfszfzTJA==",
+  "dgSpecHash": "I8jVD1LwzfjQPdb1ia3ST+MwDCIFzVKyOcJPjwpSyMN/RiAVIHScWr/S5YU/R6oKdaOELL+v1BZsd0lfvgRJKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\misha\\.nuget\\packages\\nunit\\4.0.0\\nunit.4.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_mindbox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,63 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "NUnit/4.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/nunit.framework.dll": {
-            "related": ".legacy.xml;.xml"
-          },
-          "lib/net6.0/nunit.framework.legacy.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/nunit.framework.dll": {
-            "related": ".legacy.xml;.xml"
-          },
-          "lib/net6.0/nunit.framework.legacy.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "build/NUnit.props": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "NUnit/4.0.0": {
-      "sha512": "hvSDhron6affk3FwBPjEQSn3mnhYi4EZZUB74CRd+vkiSVhewpp4Z6pI2m4IQV7H1oiUlDz2PQXbuAYT6P0Ggg==",
-      "type": "package",
-      "path": "nunit/4.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "CHANGES.md",
-        "LICENSE.txt",
-        "NOTICES.md",
-        "README.md",
-        "THIRD_PARTY_NOTICES.md",
-        "build/NUnit.props",
-        "icon.png",
-        "lib/net462/nunit.framework.dll",
-        "lib/net462/nunit.framework.legacy.dll",
-        "lib/net462/nunit.framework.legacy.xml",
-        "lib/net462/nunit.framework.xml",
-        "lib/net6.0/nunit.framework.dll",
-        "lib/net6.0/nunit.framework.legacy.dll",
-        "lib/net6.0/nunit.framework.legacy.xml",
-        "lib/net6.0/nunit.framework.xml",
-        "nunit.4.0.0.nupkg.sha512",
-        "nunit.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "NUnit >= 4.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\misha\\.nuget\\packages\\": {},
@@ -66,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
+      "projectUniqueName": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_mindbox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
       "projectName": "Test_task_in_mindbox",
-      "projectPath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
+      "projectPath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_mindbox\\Test_task_in_mindbox\\Test_task_in_mindbox.csproj",
       "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_in_mindbox\\obj\\",
+      "outputPath": "C:\\Users\\misha\\source\\repos\\MindBox\\Test_task_mindbox\\Test_task_in_mindbox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,12 +50,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "NUnit": {
-            "target": "Package",
-            "version": "[4.0.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -124,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
